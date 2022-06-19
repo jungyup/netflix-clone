@@ -2,6 +2,8 @@
 
 *Clone the existing Netflix website with UI, functionalities such as adding custom My List movies depends on the user logged-in*
 
+---
+
 There are three feature branches and will have updated status day by day
 - Day 1
   - Create boilerplate, set up Tailwind and TMDB for public API
