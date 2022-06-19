@@ -1,23 +1,20 @@
-# Next.js + Tailwind CSS Example
+# Netflix Clone
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+Clone the existing Neflix website with UI, functionalities such as adding custom My List movies depends on the user logged-in
 
-## Deploy your own
+There are three feature branches and will have updated status day by day
+- Day 1
+  - Create boilerplate, set up Tailwind and TMDB for public API
+  - Create Header, Banner, Row and Thumbnail components
+- Day 2
+  - To Be Completed..
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+**Tech stack used**
+- NextJS with TypeScript
+- Tailwind CSS
+- Firebase Database
+- Stripe Payment
+- Public API used: [The Movie Database](https://www.themoviedb.org/)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
-
-## How to use
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
-
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-# or
-pnpm create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+### Code deployed on Vercel
+[Netflix Clone Deployed Link](https://netflix-clone-jungyup.vercel.app/)
