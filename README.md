@@ -9,7 +9,8 @@ There are three feature branches and will have updated status day by day
   - Create boilerplate, set up Tailwind and TMDB for public API
   - Create Header, Banner, Row and Thumbnail components
 - Day 2
-  - To Be Completed..
+  - Create Login page with authentication
+  - Integrate Firebase
 
 **Tech stack used**
 - NextJS with TypeScript
