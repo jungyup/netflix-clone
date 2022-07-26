@@ -11,11 +11,14 @@ There are three feature branches and will have updated status day by day
 - Day 2
   - Create Login page with authentication
   - Integrate Firebase
+  - Create Modal with React Player to show trailer of the movie
+  - Add Recoil for state management
 
 **Tech stack used**
 - NextJS with TypeScript
 - Tailwind CSS
 - Firebase Database
+- Recoil state management
 - Stripe Payment
 - Public API used: [The Movie Database](https://www.themoviedb.org/)
 
