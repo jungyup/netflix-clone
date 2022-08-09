@@ -13,6 +13,8 @@ There are three feature branches and will have updated status day by day
   - Integrate Firebase
   - Create Modal with React Player to show trailer of the movie
   - Add Recoil for state management
+- Day 3
+  - Set up Stripe for subscriptions with Firebase
 
 **Tech stack used**
 - NextJS with TypeScript
